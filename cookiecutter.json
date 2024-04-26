@@ -1,0 +1,10 @@
+{
+  "project_name": "Mon projet",
+  "__project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "command_shortname": "CommandePrincipale",
+  "__command_slug": "{{ cookiecutter.command_shortname.lower().replace(' ', '_').replace('-', '_') }}",
+  "__prompts__": {
+    "project_name": "Choisissez un nom de projet court",
+    "command_shortname": "Que voudriez-vous comme nom court de commande ?"
+  }
+}
