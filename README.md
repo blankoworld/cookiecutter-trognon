@@ -7,4 +7,4 @@ pipx install cookiecutter
 cookiecutter gh:blankoworld/cookiecutter-trognon
 ```
 
-Réponsez aux questions et voilà !
+Répondez aux questions et voilà !
